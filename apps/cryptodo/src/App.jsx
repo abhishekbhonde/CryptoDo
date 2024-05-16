@@ -2,6 +2,8 @@ import AboutCompany from "./components/AboutCompany"
 import HomePage from "./components/HomePage"
 import HowItWorks from "./components/HowItWorks"
 import Navbar from "./components/Navbar"
+import Advantages from "./components/Advantages"
+import Tokenmics from "./components/Tokenmics"
 
 function App() {
   
@@ -12,6 +14,8 @@ function App() {
    <HomePage/>
    <AboutCompany/>
    <HowItWorks/>
+   <Advantages/>
+   <Tokenmics/>
     </div>
   )
 }
